@@ -1,0 +1,32 @@
+body{
+    background-color:antiquewhite;
+}
+
+#dogapi{
+    text-align:center;
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.apiButton{
+    padding: 20px;
+    font-size: large;
+}
+
+.dogImg{
+    min-width: 200px;
+    min-height: 200px;
+    max-height: 200px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.select{
+    display:block;
+    margin:auto;
+    padding:10px;
+    margin-bottom:20px;
+}
