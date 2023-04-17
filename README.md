@@ -2,6 +2,11 @@
 
 Este es un proyecto de JavaScript en el que he utilizado la Dog API (https://dog.ceo/dog-api/) para crear una página web que muestra imágenes de perros aleatorios cada vez que se hace clic en el botón. También se puede seleccionar una raza de perro concreta.
 
+<p align="center">
+  <img src="https://i.imgur.com/qzdkTOV.png" alt="web en funcionamiento">
+</p>
+
+
 ## Tecnologías utilizadas
 
 - HTML5.
